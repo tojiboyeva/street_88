@@ -56,3 +56,36 @@ padding-bottom: 18px;
 
     }
 }
+
+
+nav{
+    background: var(--header_bg);
+    
+}
+.nav_wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .nav_row1{
+.btn{
+
+font-weight: 700;
+font-size: 36px;
+color: var(--h_bg);
+width: 216px;
+height: 53px;
+border: 4px solid var(--btn_hr);
+border-radius: 4px;
+background: var(--btn_bg);
+}
+    }
+    .nav_row2{
+button{
+    border: none;
+    color: var(--h_bg);
+    width: 93px;
+    height: 65px;
+    background: var(--btn_bg);
+}
+    }
+}
