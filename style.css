@@ -186,7 +186,7 @@ padding-bottom: 80px;
     .p {
         color: white;
         opacity: 0.4;
-        transition: 0.4s;
+        transition: 0.4s;  
         position: relative;
 
         &:hover {
